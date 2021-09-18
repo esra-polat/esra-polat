@@ -2,7 +2,7 @@
 #### Software Developer
 ---- 
 
-<img align="right" alt="GIF" src="https://github.com/esra-polat/bahcem/blob/main/assets/images/d4tvukbt5mra37cvwklk.gif" width="500" height="320" />  
+<img align="right" alt="GIF" src="https://github.com/esra-polat/bahcem/blob/main/assets/images/d4tvukbt5mra37cvwklk.gif" width="500" />  
 
 👉  https://flowcv.me/esrapolat
 
