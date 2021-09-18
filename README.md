@@ -1,8 +1,9 @@
-### Hi there 👋, I'm Esra
-#### Software Developer
----- 
 
 <img align="right" alt="GIF" src="https://github.com/esra-polat/bahcem/blob/main/assets/images/d4tvukbt5mra37cvwklk.gif" width="460" height="320" />  
+
+### Hi there 👋, I'm Esra
+#### Software Developer
+
 
 👉  https://flowcv.me/esrapolat
 
@@ -11,5 +12,4 @@
 <br />
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)      
-<p></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esra-polat&show_icons=true&locale=en&layout=compact" alt="esra-polat" /></p>
