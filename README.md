@@ -10,4 +10,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)     
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esra-polat&show_icons=true&locale=en&layout=compact" alt="esra-polat" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esra-polat&show_icons=true&locale=en&layout=compact" alt="esra-polat" /></p> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esra-polat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
