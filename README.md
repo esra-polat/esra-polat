@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Esra
 #### Software Developer
 -----
-<img align="right" alt="GIF" src="https://github.com/esra-polat/bahcem/blob/main/assets/images/d4tvukbt5mra37cvwklk.gif" width="490" height="350" />  
+<img align="right" alt="GIF" src="https://github.com/esra-polat/bahcem/blob/main/assets/images/d4tvukbt5mra37cvwklk.gif" width="485" height="350" />  
 
 👉  https://flowcv.me/esrapolat
 
