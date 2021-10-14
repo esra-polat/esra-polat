@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Esra
-#### Software Developer
+### Hi there 👋, I'm Esra.
+#### ~ Software Developer ~
 -----
 <img align="right" alt="GIF" src="https://github.com/esra-polat/bahcem/blob/main/assets/images/d4tvukbt5mra37cvwklk.gif" width="480" height="340" />  
 
