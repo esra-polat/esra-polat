@@ -12,6 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)     
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esra-polat&show_icons=true&locale=en&layout=compact" alt="esra-polat" /></p> -->
 
