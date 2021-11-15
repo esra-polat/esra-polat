@@ -1,5 +1,5 @@
 ### Hi there :wave: I'm Esra :v:
-#### I'm a software developer :woman_technologist:
+#### I'm a software engineer at TEB :woman_technologist:
 -----
 <img align="right" alt="GIF" src="https://github.com/esra-polat/bahcem/blob/main/assets/images/d4tvukbt5mra37cvwklk.gif" width="450" height="350" />  
 
@@ -17,4 +17,3 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esra-polat&show_icons=true&locale=en&layout=compact" alt="esra-polat" /></p> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esra-polat&layout=compact&langs_count=9)
-
