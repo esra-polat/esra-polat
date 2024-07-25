@@ -3,8 +3,6 @@
 -----
 <img align="right" alt="GIF" src="https://github.com/esra-polat/bahcem/blob/main/assets/images/d4tvukbt5mra37cvwklk.gif" width="450" height="350" />  
 
-👉  https://flowcv.me/esrapolat
-
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/polat-esra/) [<img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />](https://leetcode.com/esrapolat/) [<img align="left" alt="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />](https://www.hackerrank.com/esrapolat?hr_r=1) [<img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />](https://www.kaggle.com/esrapolat) [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_esrapolat)
 <br />
 
